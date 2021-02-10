@@ -1,8 +1,8 @@
 ### Hi.
 
-You've stumbled upon my GitHub profile, nice one. I am a creative technologist building digital and physical products, and currently a research software engineer  for [@ideafast](https://github.com/ideafast). You can find a good overview of all my work at [davidverweij.com](https://www.davidverweij.com), some of which I have public repositories for here on GitHub.
+You've stumbled upon my GitHub profile, nice one. I am a creative technologist building digital and physical products, and currently a research software engineer  for [ideafast](https://github.com/ideafast). You can find a good overview of all my work at [davidverweij.com](https://www.davidverweij.com), some of which I have public repositories for here on GitHub.
 
-- 💻 Developing data pipelines and interoperability layers for [@deafast](https://github.com/ideafast)
+- 💻 Developing data pipelines and interoperability layers for [ideafast](https://github.com/ideafast)
 - 📚 Writing my PhD thesis on [Phone Grown](https://www.davidverweij.com/phonegrown/) and [Domestic Widgets](https://www.davidverweij.com/domesticwidgets/)
 - 📱 Reach me via [hi@davidverweij.com](mailto:hi@davidverweij.com), or visit [davidverweij.com](https://www.davidverweij.com).
 
