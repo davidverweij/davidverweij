@@ -1,10 +1,6 @@
 ### Hi.
 
-You've stumbled upon my GitHub profile, nice one. I am a creative technologist building digital and physical products, and currently a research software engineer  for [ideafast](https://github.com/ideafast). You can find a good overview of all my work at [davidverweij.com](https://www.davidverweij.com), some of which I have public repositories for here on GitHub.
-
-- 💻 Developing data pipelines and interoperability layers for [ideafast](https://github.com/ideafast)
-- 📚 Writing my PhD thesis on [Phone Grown](https://www.davidverweij.com/phonegrown/) and [Domestic Widgets](https://www.davidverweij.com/domesticwidgets/)
-- 📱 Reach me via [hi@davidverweij.com](mailto:hi@davidverweij.com), or visit [davidverweij.com](https://www.davidverweij.com).
+You've stumbled upon my GitHub profile, nice one. I am a creative technologist building digital and physical products, and currently a _Node.js backend software engineer_ at [EPAM Systems](https://github.com/epam). You can find a good overview of all my work at [davidverweij.com](https://www.davidverweij.com), some of which I have public repositories for here on GitHub.
 
 #### Experience
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
@@ -20,9 +16,3 @@ You've stumbled upon my GitHub profile, nice one. I am a creative technologist b
 <a href="https://cloud.google.com/gcp/" title="Google Cloud Platform"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-cloud-platform.svg" alt="GCP" width="21px" height="21px"></a>
 <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
-
-
-###### Gaining experience in
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
-<a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/vue.svg" alt="Vue.js" width="21px" height="21px"></a>
-<a href="https://www.docker.com/" title="docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
