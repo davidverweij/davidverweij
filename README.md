@@ -1,6 +1,6 @@
 ### Hi.
 
-You've stumbled upon my GitHub profile, nice one. I am a creative technologist building digital and physical products, and currently a _Node.js backend software engineer_ at [EPAM Systems](https://github.com/epam). You can find a good overview of all my work at [davidverweij.com](https://www.davidverweij.com), some of which I have public repositories for here on GitHub.
+You've stumbled upon my GitHub profile, nice one. I am a creative technologist building digital and physical products, and currently a _Node.js backend software engineer_ at [DWP Digital](https://dwpdigital.blog.gov.uk/). You can find a good overview of all my work at [davidverweij.com](https://www.davidverweij.com), some of which I have public repositories for here on GitHub.
 
 #### Experience
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
